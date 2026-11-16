@@ -1,8 +1,5 @@
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inreallife-technology/.github/main/profile/logos/irl-white.png">
-    <img src="https://raw.githubusercontent.com/inreallife-technology/.github/main/profile/logos/irl.png" alt="InRealLife" height="48">
-  </picture>
+  <img src="https://raw.githubusercontent.com/inreallife-technology/.github/main/profile/logos/irl-color.png" alt="InRealLife" height="56">
 </p>
 
 ## The best social network is real life.
